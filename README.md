@@ -7,6 +7,3 @@
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=LetzC&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif)
-
