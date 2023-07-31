@@ -7,3 +7,5 @@
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=LetzC&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LetzC&bg_color=000000&color=9343ee&line=a863fd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
